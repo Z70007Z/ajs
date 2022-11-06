@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry":"https://github.com/Z70007Z/ajs.git"
+    "registry":"https://npm.pkg.github.com/"
   },
   "scripts": {
     "build": "webpack --mode production",
